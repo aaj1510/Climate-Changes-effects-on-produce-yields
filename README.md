@@ -1,4 +1,4 @@
-This project was made to identify the effects of Climate Change on Crop yields using data processing methodologies with Python pandas, and ML techniques and predictive analysis.
+This project was made to identify the effects of farming practices on Crop yields. Our analysis used data processing tools(Python pandas), ML techniques, algorithms for predictive analysis. We compared the analysis using 3 different algorithmic models.
 Problem Statement: How can we support farmers in predicting crop yields by understanding how farming practices like pesticide usage, fertilizer application, and organic farming impact their harvests?
 
 The data was taken from several sources, Kaggle, Government Dataset websites, and more. We focused on the Asia region. 
