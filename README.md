@@ -1,6 +1,6 @@
 # 🌾 ML Crop Yield Predictor
 
-This machine learning project was developed to help farmers understand the **impact of agricultural practices**—like pesticide usage, fertilizer application, and organic farming on **crop yields** in the Asia region. Using real-world datasets and predictive modeling, our team aimed to provide a **data-driven tool** to support better decision-making in agriculture.
+This machine learning project was developed to help farmers understand the **impact of agricultural practices** like pesticide usage, fertilizer application, and organic farming on **crop yields** in the Asia region. Using real-world datasets and predictive modeling, our team aimed to provide a **data-driven tool** to support better decision-making in agriculture.
 
 ---
 
