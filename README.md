@@ -12,3 +12,5 @@ How to evaluate models (R^2 coefficient, MAE, Intercept, MSE)
 Outcome:
 Our model was able to accurately predict (to an ~90% accuracy) between predicted and actual crop yields (given factors of pesticide usage, fertiliser application and organic farming), to see how it affects the yields. 
 Other tools used for data visualisation and analytics includes: Matplotlib and Seaborn sns. This helped us identify any discrepancies in data. We also removed outliers after studying them, to prevent skewing outcomes.
+
+Note: Trail 5 is our final submission, I included the previous trials for personal documentation of my journey towards learning and applying ML algorithms and data analytics & visualisation
