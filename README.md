@@ -1,16 +1,73 @@
-This project was made to identify the effects of farming practices on Crop yields. Our analysis used data processing tools(Python pandas), ML techniques, algorithms for predictive analysis. We compared the analysis using 3 different algorithmic models.
-Problem Statement: How can we support farmers in predicting crop yields by understanding how farming practices like pesticide usage, fertilizer application, and organic farming impact their harvests?
+# 🌾 ML Crop Yield Predictor
 
-The data was taken from several sources, Kaggle, Government Dataset websites, and more. We focused on the Asia region. 
+This machine learning project was developed to help farmers understand the **impact of agricultural practices**—like pesticide usage, fertilizer application, and organic farming—on **crop yields** in the Asia region. Using real-world datasets and predictive modeling, our team aimed to provide a **data-driven tool** to support better decision-making in agriculture.
 
-ML applications and what I learnt through this project: 
-Model training via data splitting (Test vs Training Data) to be used for evaluation later
-Normalisation of data 
-Different algorithm models yield differing accuracy for our analysis (Linear Regression, Polynomial Algorithm, Gradient Descent Algorithm)
-How to evaluate models (R^2 coefficient, MAE, Intercept, MSE)
+---
 
-Outcome:
-Our model was able to accurately predict (to an ~90% accuracy) between predicted and actual crop yields (given factors of pesticide usage, fertiliser application and organic farming), to see how it affects the yields. 
-Other tools used for data visualisation and analytics includes: Matplotlib and Seaborn sns. This helped us identify any discrepancies in data. We also removed outliers after studying them, to prevent skewing outcomes.
+## 📌 Problem Statement
 
-Note: Trial5_project.ipynb contains our final code submission, I included the previous trials for personal documentation of my journey towards learning and applying ML algorithms and data analytics & visualisation
+**How can we support farmers in predicting crop yields by understanding how different farming practices affect harvest outcomes?**
+
+---
+
+## 📊 Dataset & Sources
+
+We compiled agricultural datasets from:
+- **Kaggle**
+- **Government open data portals**
+- **Agricultural research sources** across Asia
+
+The datasets included features such as:
+- Pesticide usage (quantitative levels)
+- Fertilizer types and quantity
+- Organic vs conventional farming practices
+- Recorded crop yields
+
+---
+
+## 🧠 Methodology
+
+### 📂 Data Processing
+- Normalized features to ensure consistency
+- Removed outliers after analyzing distribution plots
+- Split data into **training** and **testing** sets for model evaluation
+
+### 🤖 ML Models Compared
+- **Linear Regression**
+- **Polynomial Regression**
+- **Gradient Descent Algorithm (custom implementation)**
+
+### 📈 Evaluation Metrics
+- **R² Score** (Coefficient of determination)
+- **Mean Absolute Error (MAE)**
+- **Mean Squared Error (MSE)**
+- **Model Intercept/Slopes** for interpretation
+
+---
+
+## 🧪 Results
+
+- Achieved **~90% prediction accuracy** on test data
+- Polynomial Regression outperformed Linear in capturing non-linear trends
+- Visualized model predictions vs actual yields to identify discrepancies
+
+---
+
+## 📊 Tools & Libraries
+
+| Tool        | Purpose                          |
+|-------------|----------------------------------|
+| `Python`    | Core language                    |
+| `Pandas`    | Data wrangling and preprocessing |
+| `Matplotlib`| Plotting and trend analysis      |
+| `Seaborn`   | Correlation heatmaps and EDA     |
+| `Scikit-learn` | Regression models & metrics   |
+
+---
+
+## 📌 Sample Visuals
+![image](https://github.com/user-attachments/assets/c1d3c4c0-c188-4073-9412-33c0d753b266) 
+
+
+
+
