@@ -67,7 +67,29 @@ The datasets included features such as:
 
 ## 📌 Sample Visuals
 ![image](https://github.com/user-attachments/assets/c1d3c4c0-c188-4073-9412-33c0d753b266) 
+![image](https://github.com/user-attachments/assets/36f1fc38-c1a0-493a-b731-388a675e6bd1)
 
+
+---
+
+## 💡 Lessons Learned
+
+- **Model selection** has a huge impact on prediction accuracy
+- **Data cleaning** and outlier removal significantly improved model performance
+- Evaluating models using **multiple metrics** (not just accuracy) helps in selecting the best one
+- Hands-on ML experimentation builds a deep understanding of real-world challenges
+
+
+## 🏁 Future Improvements
+
+- Extend to **multi-crop predictions**
+- Deploy as a simple web dashboard for farmer access, such that analysis is easily understood
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alainajaiswal/) for collaborations or feedback.
 
 
 
