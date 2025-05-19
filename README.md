@@ -89,7 +89,8 @@ The datasets included features such as:
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alainajaiswal/) for collaborations or feedback.
+This was one of my first experiences with ML and was fruitful! My background in data analytics and pandas made this much easier. Would recommend to start with Pandas as a beginner.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alainajaiswal/) for collaborations or feedback :D
 
 
 
